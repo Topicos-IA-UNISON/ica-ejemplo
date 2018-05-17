@@ -1,2 +1,4 @@
-# Libreta de jupyter sobre ICA
-Ejemplo de ICA y como funciona (libreta de Jupyter)
+## Blind Source Separation
+### [WnCC Seasons of Code](http://wncc-iitb.org/soc/) 2016
+
+Solving the famous cocktail party problem and similar cases of blind source separation using Independent Component Analysis.
